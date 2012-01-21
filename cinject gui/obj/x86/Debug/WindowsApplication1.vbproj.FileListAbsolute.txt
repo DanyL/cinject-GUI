@@ -1,0 +1,11 @@
+C:\Users\DanyL\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\cinject gui.exe
+C:\Users\DanyL\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\cinject gui.pdb
+C:\Users\DanyL\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\cinject gui.xml
+C:\Users\DanyL\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DanyL\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\cinjectgui.Form1.resources
+C:\Users\DanyL\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\cinjectgui.Resources.resources
+C:\Users\DanyL\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DanyL\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DanyL\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\cinject gui.exe
+C:\Users\DanyL\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\cinject gui.xml
+C:\Users\DanyL\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\cinject gui.pdb

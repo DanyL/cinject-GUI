@@ -1,0 +1,12 @@
+a:\my documents\visual studio 2010\Projects\cinject gui\cinject gui\bin\Release\cinject gui.exe
+a:\my documents\visual studio 2010\Projects\cinject gui\cinject gui\bin\Release\cinject gui.pdb
+a:\my documents\visual studio 2010\Projects\cinject gui\cinject gui\bin\Release\cinject gui.xml
+a:\my documents\visual studio 2010\Projects\cinject gui\cinject gui\obj\x86\Release\ResolveAssemblyReference.cache
+a:\my documents\visual studio 2010\Projects\cinject gui\cinject gui\obj\x86\Release\cinjectgui.Form1.resources
+a:\my documents\visual studio 2010\Projects\cinject gui\cinject gui\obj\x86\Release\cinjectgui.Resources.resources
+a:\my documents\visual studio 2010\Projects\cinject gui\cinject gui\obj\x86\Release\GenerateResource.read.1.tlog
+a:\my documents\visual studio 2010\Projects\cinject gui\cinject gui\obj\x86\Release\GenerateResource.write.1.tlog
+a:\my documents\visual studio 2010\Projects\cinject gui\cinject gui\obj\x86\Release\cinject gui.exe
+a:\my documents\visual studio 2010\Projects\cinject gui\cinject gui\obj\x86\Release\cinject gui.xml
+a:\my documents\visual studio 2010\Projects\cinject gui\cinject gui\obj\x86\Release\cinject gui.pdb
+a:\my documents\visual studio 2010\Projects\cinject gui\cinject gui\obj\x86\Release\cinjectgui.cinjectgui.resources
